@@ -1,1 +1,3 @@
-# martysik.github.io
+---
+permalink: /index.html
+---
